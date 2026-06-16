@@ -1,6 +1,6 @@
-# 🧠 Head Pose Tracking System
+# Head Pose Tracking System
 
-## 📌 Overview
+## Overview
 
 The Head Pose Tracking System is a real-time computer vision application that monitors user attention by detecting head movements and identifying whether a user is looking away from the screen.
 
@@ -10,7 +10,7 @@ This project can be applied in online examination proctoring, remote interviews,
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Detect suspicious head movements.
 - Estimate head pose using yaw, pitch, and roll.
@@ -20,7 +20,7 @@ This project can be applied in online examination proctoring, remote interviews,
 
 ---
 
-## ✨ Features
+## Features
 
 - Real-time webcam-based tracking.
 - Facial landmark detection using MediaPipe Face Mesh.
@@ -37,24 +37,27 @@ This project can be applied in online examination proctoring, remote interviews,
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 ### Programming Language
+
 - Python
 
 ### Libraries
+
 - OpenCV
 - MediaPipe Face Mesh
 - NumPy
 
 ### Tools
+
 - Visual Studio Code
 - Git & GitHub
 - Python Virtual Environment (venv)
 
 ---
 
-## ⚙️ System Workflow
+## System Workflow
 
 ```
 Webcam Input
@@ -76,7 +79,7 @@ Session Statistics Generation
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Head-Pose-Tracking-System/
@@ -104,7 +107,7 @@ Head-Pose-Tracking-System/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone Repository
 
@@ -138,7 +141,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Run:
 
@@ -154,11 +157,11 @@ The system displays:
 - ATTENTIVE / LOOKING AWAY status
 - Away time
 
-Press **ESC** to exit the application and view the final session statistics.
+Press `ESC` to exit the application and view the final session statistics.
 
 ---
 
-## 🧪 Test Cases
+## Test Cases
 
 | Test Scenario | Expected Result |
 |--------------|----------------|
@@ -171,7 +174,7 @@ Press **ESC** to exit the application and view the final session statistics.
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ### JSON Output
 
@@ -197,7 +200,7 @@ Longest Away Duration : 6.43 seconds
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
 - MediaPipe compatibility issues with Python versions.
 - Threshold tuning for accurate detection.
@@ -206,7 +209,7 @@ Longest Away Duration : 6.43 seconds
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Eye gaze tracking.
 - Multi-person head pose tracking.
@@ -217,7 +220,7 @@ Longest Away Duration : 6.43 seconds
 
 ---
 
-## 📚 References
+## References
 
 Python Documentation:
 https://docs.python.org/3/
@@ -236,7 +239,8 @@ https://numpy.org/doc/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-**Name:** Veera Lakshmi Malladi
-**Project:** Head Pose Tracking System
+Name: Your Name  
+Internship: UptoSkills AI/ML Internship  
+Project: Head Pose Tracking System
