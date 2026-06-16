@@ -241,6 +241,5 @@ https://numpy.org/doc/
 
 ## Author
 
-Name: Your Name  
-Internship: UptoSkills AI/ML Internship  
+Name: Veera Lakshmi Malladi
 Project: Head Pose Tracking System
